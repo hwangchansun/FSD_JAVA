@@ -1,4 +1,4 @@
-package lectures3;
+package lecture3;
 
 public class Operators {
     public static void main(String[] args) {
@@ -14,5 +14,6 @@ public class Operators {
 
         y = ++x; // x = x + 1 and then y = x 
         System.out.println("x = " + x + " and y = " + y);
+        //
     }
 }

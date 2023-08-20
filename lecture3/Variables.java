@@ -1,4 +1,4 @@
-package lectures3;
+package lecture3;
 
 public class Variables {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Variables {
         
         System.out.println("Result " + result);
         //    
-
+            //
     }
 
 }
